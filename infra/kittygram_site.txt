@@ -1,0 +1,5 @@
+IP: 158.160.7.223;
+name_taski: https://umataullin.hopto.org/;
+name_kittygram: https://umataullin.dynnamn.ru/;
+login: yc-user;
+password: NRjeSf;
